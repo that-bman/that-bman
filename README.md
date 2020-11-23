@@ -1,6 +1,8 @@
-## I'm Bee or that bman.
+## Hello, I'm 'Bee' or 'bman'.
 
-A software developer currently residing in Berlin
+A software developer currently residing in Berlin.
+
+
 
 <!--
 **that-bman/that-bman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
