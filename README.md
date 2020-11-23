@@ -1,4 +1,6 @@
-### Hi there 👋
+## I'm Bee or that bman.
+
+A software developer currently residing in Berlin
 
 <!--
 **that-bman/that-bman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
